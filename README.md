@@ -1,3 +1,10 @@
+# Comments from Thunder Research Group
+
+We ship [a solution](https://github.com/open-mmlab/mmcv/issues/2860#issuecomment-1751588987) with a separate repository.
+This repository ships `mmcv-full==1.7.1`.
+
+# Original README
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/master/docs/en/mmcv-logo.png" width="300"/>
   <div>&nbsp;</div>
